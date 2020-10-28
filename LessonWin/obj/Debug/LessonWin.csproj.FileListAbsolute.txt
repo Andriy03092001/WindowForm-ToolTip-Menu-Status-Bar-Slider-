@@ -1,0 +1,9 @@
+C:\Users\Admin\Desktop\LessonWin\LessonWin\bin\Debug\LessonWin.exe.config
+C:\Users\Admin\Desktop\LessonWin\LessonWin\bin\Debug\LessonWin.exe
+C:\Users\Admin\Desktop\LessonWin\LessonWin\bin\Debug\LessonWin.pdb
+C:\Users\Admin\Desktop\LessonWin\LessonWin\obj\Debug\LessonWin.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\LessonWin\LessonWin\obj\Debug\LessonWin.Form1.resources
+C:\Users\Admin\Desktop\LessonWin\LessonWin\obj\Debug\LessonWin.Properties.Resources.resources
+C:\Users\Admin\Desktop\LessonWin\LessonWin\obj\Debug\LessonWin.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\LessonWin\LessonWin\obj\Debug\LessonWin.exe
+C:\Users\Admin\Desktop\LessonWin\LessonWin\obj\Debug\LessonWin.pdb
